@@ -74,7 +74,7 @@ Initial code goes into twindle-cli
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Twindle Live Stream](https://www.youtube.com/watch?v=LdC61PDqPTw)
+- [Twindle Live Stream](https://www.youtube.com/watch?v=I7eC9zKm1Cc)
 - [Twindle PDF Rendering](https://www.youtube.com/watch?v=3WdxnAOTZq0)
 - [Svelte Overview and Discussion](https://www.youtube.com/watch?v=tp5lYJdJ1XE)
 - [Twindle Hacker News Integration](https://www.youtube.com/watch?v=kX4ejOw46Vg)
